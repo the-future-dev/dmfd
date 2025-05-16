@@ -10,3 +10,9 @@ wandb/
 # python ignored files
 *.pyc
 __pycache__
+
+
+# diffusion_policy/
+
+*.out
+*.sif
